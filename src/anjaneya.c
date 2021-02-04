@@ -1,6 +1,6 @@
-#include<anjaneya.h>
+#include <anjaneya.h>
 
-int show1()
+int anjaneya()
 {
     printf("This is Anjaneya");
     return 0;

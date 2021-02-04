@@ -1,5 +1,5 @@
 #include<dhuma.h>
-int main()
+int dhuma()
 {
     printf("Hi , it's Dhuma");
 }
