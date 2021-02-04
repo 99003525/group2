@@ -9,6 +9,5 @@ int main()
     printf("I am Sahil \n");
     printf("I am Vennela \n");
     printf("I am Sri Naga Anjaneya \n");
-    printf("I am Malavika \n");
-    return 0;
+    printf("I am Komali");
 }
