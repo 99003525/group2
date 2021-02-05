@@ -1,5 +1,5 @@
-#ifndef __SNEHA__
-#define __SNEHA__
+#ifndef __SNEHA_H__
+#define __SNEHA_H__
 #include<stdio.h>
 
 int sneha();

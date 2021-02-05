@@ -1,5 +1,5 @@
-#include<malavika.h>
-int main()
+#include "malavika.h"
+int malavika()
 {
     printf("Hello!");
     return 0;

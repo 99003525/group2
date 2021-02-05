@@ -1,6 +1,6 @@
 #include "pranshi.h"
 
-int main()
+int pranshi()
 {
     printf("Hello!");
     return 0;

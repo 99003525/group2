@@ -1,5 +1,5 @@
-#include<sneha.h>
-int main()
+#include "sneha.h"
+int sneha()
 {
     printf("Hi , it's Sneha");
 }

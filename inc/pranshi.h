@@ -1,5 +1,5 @@
-#ifndef __PRANSHI__
-#define __PRANSHI__
+#ifndef __PRANSHI_H__
+#define __PRANSHI_H__
 #include <stdio.h>
 
 int pranshi();
