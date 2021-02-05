@@ -3,4 +3,6 @@
 
 #include <stdio.h>
 
+int malavika();
+
 #endif
