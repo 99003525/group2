@@ -17,11 +17,13 @@ src/vennela.c\
 $(BUILD):
 			mkdir build
 
-INC = -Iinc
+INC = -Iinc\
 
 PROJECT_NAME = group2.out
 
 $(PROJECT_NAME): $(SRC)
 	gcc $(SRC) $(INC) -o $(PROJECT_NAME)
 
-
+# Call `make run` to run the application
+run:$(PROJECT_NAME)
+	./$(PROJECT_NAME)

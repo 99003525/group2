@@ -2,5 +2,5 @@
 #define __SPOORTHY_H__
 #include<stdio.h>
 
-int spoothy();
+int spoorthy();
 #endif
