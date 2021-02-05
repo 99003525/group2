@@ -22,6 +22,6 @@ INC = -Iinc
 PROJECT_NAME = group2.out
 
 $(PROJECT_NAME): $(SRC)
-    gcc $(SRC) $(INC) -o $(PROJECT_NAME)
+	gcc $(SRC) $(INC) -o $(PROJECT_NAME)
 
 
