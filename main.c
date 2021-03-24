@@ -9,8 +9,6 @@
 #include<spoorthy.h>
 #include<vennela.h>
 
-
-
 int main(){
     pranshi();
     anjaneya();
